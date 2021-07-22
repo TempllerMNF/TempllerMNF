@@ -14,7 +14,7 @@
 /╚═╝░░╚══╝╚══════╝░░░╚═╝░░░░░░╚═╝░░░╚═╝░░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝
 
 Name:
--Templler Temuudei
+- Templler Temuudei
 
 Age:
 - 18 year old
