@@ -24,7 +24,7 @@ Nationality:
 
 Detailed Information:
 - Developer at MNFCANDY
-- Owns Game servers
+- Own Game servers
 
 Code Languages:
 - Java
