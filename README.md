@@ -1,29 +1,19 @@
+<p align="center">
+  <img width="612" height="240" src="https://i.imgur.com/GHFShCv.png">
+</p>
 
-
-Name:
-- Templler Temuudei
-
+## 👋 About me
 Age:
-- 18 year old
-
-Nationality:
-- Khalkh Mongolian
-
-Religion:
-Buddhist / Tengrism
+➢ 18 Years old
 
 Detailed Information:
-- Founder / Developer at MNFCANDY NETWORK
-- Publisher / Blogger at Esportnews.mn
-
-Experience with:
-- FiveM Server
-- Minecraft Server
-- CS:GO Server
+➢ Founder / Developer at MNFCANDY NETWORK 🔥
+➢ Publisher / Blogger at Esportnews.mn 🔥
 
 Code Languages:
-- Java
-- Lua
-- HTML
+➢ Lua 🔥
+➢ Java 🔥
+➢ HTML 🔥
 
-        Sincerely TempllerMNF🔋
+## 👉 Join the community
+https://discord.gg/mnfcandy
