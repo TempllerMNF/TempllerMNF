@@ -32,6 +32,7 @@ Here's my favourite song for you :trumpet:- [**Marathon** by **B Tamir**.](https
 <img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" />&nbsp; 
 <img height="32" width="32" src="https://i.imgur.com/GHFShCv.png" />&nbsp; 
 <img width="612" height="240" src="https://i.imgur.com/GHFShCv.png">
+
 ### Daily Programmes :accessibility:
 <img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" />&nbsp; 
 <img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" />&nbsp; 
@@ -54,8 +55,8 @@ Page 1 of 2
 Middle School Diploma, Fundamental Education · (September 2013 - May
 2022)
 
-<iframe src="https://giphy.com/embed/sE1fbQPozKg3q5I2W2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-technology-ai-sE1fbQPozKg3q5I2W2">via GIPHY</a></p>
 
+<img width="612" height="240" src="https://giphy.com/embed/sE1fbQPozKg3q5I2W2">
 
 <br></details>
 
