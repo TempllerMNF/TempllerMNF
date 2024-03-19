@@ -30,8 +30,6 @@ Here's my favourite song for you :trumpet:- [**Marathon** by **B Tamir**.](https
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobephotoshop.svg" />&nbsp; 
 <img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" />&nbsp; 
 <img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" />&nbsp; 
-<img height="32" width="32" src="https://i.imgur.com/GHFShCv.png" />&nbsp; 
-<img width="612" height="240" src="https://i.imgur.com/GHFShCv.png">
 
 ### Daily Programmes :accessibility:
 <img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" />&nbsp; 
@@ -56,7 +54,5 @@ Middle School Diploma, Fundamental Education · (September 2013 - May
 2022)
 
 
-<img width="612" height="240" src="https://giphy.com/embed/sE1fbQPozKg3q5I2W2">
-
-<br></details>
+<img width="612" height="240" src="https://i.imgur.com/GHFShCv.png">
 
