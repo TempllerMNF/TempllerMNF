@@ -7,7 +7,6 @@
 - 📫 **How to reach me**: [Website](https://mnfcandy.com/) or [LinkedIn](https://www.linkedin.com/in/temuudeib/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world".
 
-<details>
 <summary>
   <a href="https://github.com/TempplerMNF"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
@@ -71,7 +70,7 @@ Page 1 of 2
 Middle School Diploma, Fundamental Education · (September 2013 - May
 2022)
 
-<img height="32" width="32" src="https://camo.githubusercontent.com/d5f8bd6b5621c0a713fff537b1e3a859f2624df71c41864b1ddd81e63b1707fb/68747470733a2f2f692e696d6775722e636f6d2f474846536843762e706e67" />&nbsp; 
+<img width="612" height="240" src="https://i.imgur.com/GHFShCv.png">
 
 <br></details>
 
