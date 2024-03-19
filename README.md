@@ -14,9 +14,9 @@
 
 ### Little More About Me  
 
-I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration. In fact, I'm currently the Chair of [SVCE-ACM Student Chapter](https://svce.acm.org/). My secret sauce is getting people excited about the things I'm excited about. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
+I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration. In fact, My secret sauce is getting people excited about the things I'm excited about. I was passionate for video game dedicated server when I was kid. I'm currently focusing on my studies planning to comeback soon..
 
-Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
+Here's my favourite song for you :trumpet:- [**Marathon** by **B Tamir**.](https://www.youtube.com/watch?v=tH1kbVgyO9Q)
 
 ### Programming Languages :scroll:
 
@@ -55,7 +55,23 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobephotoshop.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; 
 
-### Honors and Award :trophy:
+### Education :trophy:
+Murdoch University
+Bachelor's degree, International Business and Management · (January
+2024 - May 2026)
+Kaplan
+Diploma, Logistics and Supply Chain Management · (April 2023 - December
+2023)
+Kaplan
+Diploma, Kaplan Foundation · (November 2022 - April 2023)
+Kaplan
+Diploma, Professional Business English · (September 2022 - October 2022)
+King's Kids Secondary School
+Page 1 of 2
+Middle School Diploma, Fundamental Education · (September 2013 - May
+2022)
+
+<img height="32" width="32" src="https://camo.githubusercontent.com/d5f8bd6b5621c0a713fff537b1e3a859f2624df71c41864b1ddd81e63b1707fb/68747470733a2f2f692e696d6775722e636f6d2f474846536843762e706e67" />&nbsp; 
 
 <br></details>
 
