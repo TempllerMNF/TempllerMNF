@@ -1,158 +1,85 @@
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
-</a>
-</picture>
+## Bayaraa Temuudei (Him/He) 🌻
+- 🔭 I’m a Student in Double Degree Bachelor at Murdoch University 
+- 👯 I'm from Mongolia living in Singapore
+- 💬 Full Stack FiveM Developer.
+- 📫 **How to reach me**: [Website](https://mnfcandy.com/) or [LinkedIn](https://www.linkedin.com/in/temuudeib/)
+- ⚡ **Unbelievable fact**: My first words were "Hello world".
 
-```js
-"use creativity";
-import { Person } from 'Mongolia';
-
-new Person({
-    name   : 'Bayaraa Temuudei',
-    title  : 'Full Stack Developer',
-    email  : 'temuudeib@gmail.com',
-    website: 'mnfcandy.com',
-    country: 'Singapore',
-}).introduce();
-```
-
-```cmd
-D:\Templler-PC> node index.js
-Hi, my name is Bayaraa Temuudei, I'm a Entrepreneur / Business Student / Full Stack Developer from Mongolia.
-```
-
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-🌆 Daytime                2359 commits        ███████████░░░░░░░░░░░░░░   43.20 % 
-🌃 Evening                1875 commits        █████████░░░░░░░░░░░░░░░░   34.33 % 
-🌙 Night                  661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-```
+<details>
+<summary>
+  <a href="https://github.com/K-Kraken"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+</summary>
 
 
-📊 **This Week I Spent My Time On** 
+### Little More About Me  
 
-```text
-🕑︎ Time Zone: Asia/Jakarta
+I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration. In fact, I'm currently the Chair of [SVCE-ACM Student Chapter](https://svce.acm.org/). My secret sauce is getting people excited about the things I'm excited about. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
 
-💬 Programming Languages: 
-TypeScript               21 hrs 22 mins      █████████████████░░░░░░░░   68.89 % 
-JSON                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Prisma                   1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Bash                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-JavaScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
 
-🔥 Editors: 
-VS Code                  31 hrs 1 min        █████████████████████████   100.00 % 
+### Programming Languages :scroll:
 
-💻 Operating System: 
-Windows                  30 hrs 42 mins      █████████████████████████   98.95 % 
-Linux                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-```
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gnubash.svg" />&nbsp; 
 
+### Database Systems :bar_chart:
 
- Last Updated on 18-03-2024 17:21:11 UTC
-<!--END_SECTION:waka-->
-  
-</div>
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp; 
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+### Tools and Frameworks :hammer:
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/pytorch.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/opencv.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/docker.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/kubernetes.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/apachespark.svg" />&nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flask.svg" />&nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/travisci.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/grafana.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/inkscape.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gimp.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobexd.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobephotoshop.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; 
+
+### Honors and Award :trophy:
+
+1. **Smart India Finalist 2020 - Software Edition**
+   - :round_pushpin:&nbsp;&nbsp;**All India Council for Technical Education (AICTE)**
+   - Shortlisted for Problem Statement: RK59 by Bureau of Police Research & Development. 
+2. **First Place - Daksh Smart Finance Hackathon (2020)**
+   - Won the First Place in a 36-hour Hackathon conducted by the **Shanmugha Arts, Science, Technology & Research Academy (SASTRA), Tamil Nadu**.
+3. **Fourth Place - St. Peter's Hackathon (2019)**
+   - Won the Fourth Place in a 12-hour Hackathon of over 100+ participants conducted by the **St. Peter's College of Engineering and Technology, Chennai.**
+4. **Third Place - SSN IEEE Hack & Tackle (2019)**
+   - Won the Third Place in a 24-hour Hackathon of over 300+ participants conducted by the IEEE Chapter of **SSN College of Engineering, Chennai**.
+5. **Founder and Lead - Active Specialized Support Group (ASSG)**
+   - It was started as an effort to combat a lack of technical diversity within our college. We also run weekly workshops for students from all departments across the college
+ 
+<br></details>
+<!-- footer --!>
+<p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
-</a>
+    <a id="GitHub" href="https://github.com/K-Kraken/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
+    &nbsp;&nbsp;     
+    <a id="LinkedIn" href="https://linkedin.com/in/krishnaalagiri/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
+    &nbsp;&nbsp;
+    <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="Krishnakanth Alagiri - Website" /></a>
+    &nbsp;&nbsp;
+   <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
 </p>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<h3 align="center">🔥Streak Stats🔥</h3>
-
-<!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<h3 align="center">⭐My Favorite Repo⭐</h3>
-
-<div>
-  <p align="center">
-	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
-    	</a>
-	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/derizer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
-    	</a>
-</div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!-- Connect with me -->
-<h3 align="center">🤝Connect with Me🤝</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
-  
-</div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!-- Support me -->
-<h3 align="center">☕Support Me☕</h3>
-
-<div align="center">
-  
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
-</div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<img src="https://imgur.com/rilHVxA.png"/>
