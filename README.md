@@ -7,9 +7,6 @@
 - 📫 **How to reach me**: [Website](https://mnfcandy.com/) or [LinkedIn](https://www.linkedin.com/in/temuudeib/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world".
 
-<summary>
-  <a href="https://github.com/TempplerMNF"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
-</summary>
 
 ### Little More About Me  
 
@@ -25,8 +22,7 @@ Here's my favourite song for you :trumpet:- [**Marathon** by **B Tamir**.](https
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gnubash.svg" />&nbsp; 
+<img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />&nbsp; 
 
 ### Database Systems :bar_chart:
 
