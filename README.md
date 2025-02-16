@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Bayaraa Temuudei (Him/He) 🌻
+## Timothy Bayaraa (Him/He) 🌻
 - 🔭 I’m a Student in Double Degree Bachelor at Murdoch University 
 - 👯 I'm from Mongolia living in Singapore
 - 💬 Full Stack FiveM Developer.
